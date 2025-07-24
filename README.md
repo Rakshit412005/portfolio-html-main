@@ -83,4 +83,4 @@ Feel free to reach out if you have any questions or want to collaborate!
 - GitHub: [Rakshit412005](https://github.com/Rakshit412005)
 - LinkedIn: [Rakshit Kumar](https://www.linkedin.com/in/rakshit-kumar-1290a12b7/)
 
-Thank you for checking out my portfolio. 😊
+Thank you for checking out my portfolio. 
